@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934498403868",
+    "project_id": "chat-af3d9",
+    "storage_bucket": "chat-af3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934498403868:android:22216d31be2b0789b641d9",
+        "android_client_info": {
+          "package_name": "com.techmind.stream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt0T_XGml-3gIRu6jL1USjcpgzgMerz44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
